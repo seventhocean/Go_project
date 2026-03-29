@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"go_study/version"
+	"go_study/1_commom/version"
 )
 
 func hello() {
